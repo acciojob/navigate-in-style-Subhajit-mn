@@ -1,12 +1,15 @@
 /*  your css code here. If applicable */
 .nav-bar{
 	background-color: #D3D3D3;
-	padding: 10px;
-	margin-right: 1rem;
-	
+	padding: 10px;	
+}
+ul{	
+	display: flex;
 }
 li{
+	margin-right: 1rem;
 	list-style-type: none;
-	display: inline-flex;
+}
+a{
 	text-decoration: none;
 }
